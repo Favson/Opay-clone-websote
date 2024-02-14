@@ -33,6 +33,6 @@
   .dropdown:hover .dropdown-content {display: block;}
 
   .imgNav{
-    width: 12%;
-    padding-left: 30px ;
+    width: 15%;
+    /* padding-left: 30px ; */
   }
